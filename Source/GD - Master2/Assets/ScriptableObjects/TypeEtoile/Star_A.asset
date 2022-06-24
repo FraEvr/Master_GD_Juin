@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e19efa87f115e445a821695fd48a2aa, type: 3}
+  m_Name: Star_A
+  m_EditorClassIdentifier: 
+  starVisual: {fileID: 21300000, guid: d9f4bdd9b437b8844894bd174f9c51e8, type: 3}
+  imageSize: {x: 143, y: 143}
+  spectralType: A
+  temperature: 8500
+  radius: 1.7
+  mass: 2
+  luminosity: 20
+  lifetime: 1000
+  abundance: 0.7
